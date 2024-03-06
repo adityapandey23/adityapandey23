@@ -1,5 +1,5 @@
 # 💫 About Me:
-👷 Currently pursuing B.Tech in Electronics and Communication(2022-2026) from Vellore Institute of Technology - Chennai<br>🔭 Schooled from PCM with Computer Applications stream from Spring Dale College, ISC Board<br>🌱 I’m currently learning Frontend/Backend Development and Data Structures and Algorithms<br>🤔 I’m looking for help with how to excel in Full Stack Development (MERN Stack)<br>⚡ Fun fact: Trying to decipher your old code is like trying to translate ancient hieroglyphs after a wild night with the Pharaohs - confusing yet oddly entertaining!<br>📫 How to reach me adityapandey2395@protonmail.com
+👷 Currently pursuing B.Tech in Electronics and Communication(2022-2026) from Vellore Institute of Technology - Chennai<br>🔭 Schooled from PCM with Computer Applications stream from Spring Dale College, ISC Board<br>🌱 I’m currently learning Frontend/Backend Development and Data Structures and Algorithms<br>🤔 I’m looking for help with how to excel in Full Stack Development (MERN Stack)<br>⚡ Fun fact: Trying to decipher your old code is like trying to translate ancient hieroglyphs after a wild night with the Pharaohs - confusing yet oddly entertaining!<br>
 
 
 ## 🌐 Socials:
